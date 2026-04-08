@@ -6,7 +6,8 @@
 - **大语言模型（LLM）**：模型微调、安全性与谣言检测能力评估
 - **Docker**,**K8s**,**NAS**
 ### 编程语言
-- **python**,**SQL**,**C++**,**shell**,**PLC**
+- **python**,**SQL**,**C++**,**shell**,
+- **PLC编程**
 
 ## 📄 代表性论文
 - **Evaluating the Impact of Multimodal Cognitive and Informational Interventions on Rumor Detection in Large Language Models: A DeepSeek Case Study**
