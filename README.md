@@ -1,3 +1,4 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lichao-Lin)](https://github.com/anuraghazra/github-readme-stats)
 **闽江大学** 
 ### 技术栈
 - **Linux**：服务器管理、Shell脚本编写、环境配置
@@ -16,4 +17,4 @@
 |------|------|
 | DOI | 10.1109/CAIBDA65784.2025.11183156 |
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lichao-Lin)]
+
