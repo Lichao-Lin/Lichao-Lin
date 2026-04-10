@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lichao-Lin)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lichao-Lin&show_icons=true)
 **闽江大学** 
 ### 技术栈
 - **Linux**：服务器管理、Shell脚本编写、环境配置
