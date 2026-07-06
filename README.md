@@ -1,6 +1,6 @@
 ## Welcome! I’m Lichao Lin, Graduated from Minjiang University 
 ## ✨Technology Stack
-- **Docker**,**K8s**,**NAS**
+- **Sever**,**Docker**,**K8s**,**NAS**
 ## 💋 language
 - **python**,**SQL**,**C++**,**shell**,
 - **PLC编程**
