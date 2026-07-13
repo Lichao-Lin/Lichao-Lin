@@ -3,7 +3,7 @@
 - **Sever**,**Docker**,**K8s**,**NAS**
 ## 💋 language
 - **python**,**SQL**,**C++**,**shell**,
-- **PLC编程**
+- **PLC**
 
 ## 📄 Paper
 - **Evaluating the Impact of Multimodal Cognitive and Informational Interventions on Rumor Detection in Large Language Models: A DeepSeek Case Study**
