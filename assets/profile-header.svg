@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="280" viewBox="0 0 1120 280" role="img" aria-labelledby="title desc">
+  <title id="title">Lichao Lin — Research, Code, Systems</title>
+  <desc id="desc">A midnight blue banner with restrained teal geometry and a research-inspired grid.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#142b38"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#66d9c4"/>
+      <stop offset="1" stop-color="#66d9c4" stop-opacity="0.08"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 H 0 V 32" fill="none" stroke="#92c5c9" stroke-opacity="0.07"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1120" height="280" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1120" height="280" fill="url(#background)"/>
+    <rect x="660" width="460" height="280" fill="url(#grid)"/>
+    <circle cx="978" cy="142" r="126" fill="none" stroke="#77d8c5" stroke-opacity="0.14"/>
+    <circle cx="978" cy="142" r="88" fill="none" stroke="#77d8c5" stroke-opacity="0.18"/>
+    <circle cx="978" cy="142" r="48" fill="none" stroke="#77d8c5" stroke-opacity="0.12"/>
+    <path d="M 726 202 L 774 182 L 815 194 L 856 143 L 898 158 L 944 95 L 986 117 L 1040 62 L 1100 80" fill="none" stroke="url(#accent)" stroke-width="2.5"/>
+    <circle cx="856" cy="143" r="4" fill="#77d8c5"/>
+    <circle cx="944" cy="95" r="4" fill="#77d8c5"/>
+    <rect x="58" y="56" width="28" height="3" rx="1.5" fill="#77d8c5"/>
+    <text x="58" y="95" fill="#8eaaaF" font-family="Segoe UI, Arial, sans-serif" font-size="12" letter-spacing="3.5">RESEARCH / CODE / SYSTEMS</text>
+    <text x="54" y="161" fill="#edf3f7" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="600" letter-spacing="-1.7">Lichao Lin</text>
+    <text x="58" y="206" fill="#a5b8c7" font-family="Segoe UI, Arial, sans-serif" font-size="16" letter-spacing="0.5">Financial forecasting. LLM evaluation. Practical engineering.</text>
+    <path d="M 58 242 H 1062" stroke="#9fc5d3" stroke-opacity="0.12"/>
+  </g>
+</svg>
