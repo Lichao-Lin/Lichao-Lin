@@ -41,7 +41,7 @@ jobs:
       - name: Generate public profile cards
         run: node scripts/generate-profile-cards.mjs
         env:
-          PAT_1: ${{ github.token }}
+          GITHUB_TOKEN: ${{ github.token }}
           NODE_ENV: production
       - name: Commit refreshed cards
         run: |
