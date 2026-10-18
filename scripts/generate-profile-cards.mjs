@@ -52,12 +52,15 @@ const outputs = [
 for (const [name, repoName] of [['rumorbench', 'LLM-RumorBench'], ['research', 'research-scripts'], ['taskpool', 'TaskPool'], ['travel', 'Scrapy-Travel-Recommender']]) {
   const repo = repos.find(item => item.name === repoName);
   if (!repo) throw new Error(`Public project missing: ${repoName}`);
-  const data = { name: repo.name, nameWithOwner: repo.full_name, description: repo.description, isArchived: repo.archived, isTemplate: repo.is_template, starCount: repo.stargazers_count, forkCount: repo.forks_count, primaryLanguage: repo.language ? { name: repo.language, color: colors[repo.language] || '#8ba7ba' } : null };
+  const data = { name: repo.name, nameWithOwner: repo.full_name, description: repo.description || (repoName === 'Scrapy-Travel-Recommender' ? '旅游推荐项目 / Travel recommendation project.' : ''), isArchived: repo.archived, isTemplate: repo.is_template, starCount: repo.stargazers_count, forkCount: repo.forks_count, primaryLanguage: repo.language ? { name: repo.language, color: colors[repo.language] || '#8ba7ba' } : null };
   outputs.push([name, renderRepoCard(data, { ...palette, description_lines_count: 3 }), 200]);
 }
 
 const framed = outputs.map(([name, svg, minHeight]) => {
   if (!svg.includes('<svg') || svg.includes('data-testid="message"')) throw new Error(`Card rendering failed: ${name}`);
+  // Keep all text visible even in SVG rasterizers and clients without animation.
+  svg = svg.replace('</style>', '* { animation: none !important; } .stagger { opacity: 1 !important; }</style>');
+  svg = svg.replace(', Rank: </title>', '</title>');
   const root = svg.match(/<svg\b[^>]*>/)?.[0];
   const width = Number(root?.match(/\bwidth="([\d.]+)(?:px)?"/)?.[1]);
   const height = Number(root?.match(/\bheight="([\d.]+)(?:px)?"/)?.[1]);
