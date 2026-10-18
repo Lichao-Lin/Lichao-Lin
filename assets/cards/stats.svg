@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Public Repository Activity, Rank: </title>
-        <desc id="descId">Total Stars Earned: 23, Total Commits  : 76, Total PRs: 0, Total Issues: 0</desc>
+        <title id="titleId">Public Repository Activity</title>
+        <desc id="descId">Total Stars Earned: 23, Total Commits  : 78, Total PRs: 0, Total Issues: 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -99,7 +99,7 @@
       }
     
           * { animation-duration: 0s !important; animation-delay: 0s !important; }
-        </style>
+        * { animation: none !important; } .stagger { opacity: 1 !important; }</style>
 
         
 
@@ -166,7 +166,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >76</text>
+      >78</text>
     </g>
   </g><g transform="translate(0, 56)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">

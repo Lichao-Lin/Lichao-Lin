@@ -48,7 +48,7 @@
       }
     
           * { animation-duration: 0s !important; animation-delay: 0s !important; }
-        </style>
+        * { animation: none !important; } .stagger { opacity: 1 !important; }</style>
 
         
 
@@ -100,7 +100,7 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">No description provided</tspan>
+      <tspan dy="1.2em" x="25">&#26053;&#28216;&#25512;&#33616;&#39033;&#30446; / Travel</tspan><tspan dy="1.2em" x="25">recommendation project.</tspan>
     </text>
 
     <g transform="translate(30, 75)">

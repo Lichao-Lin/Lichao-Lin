@@ -81,7 +81,7 @@
       }
     
           * { animation-duration: 0s !important; animation-delay: 0s !important; }
-        </style>
+        * { animation: none !important; } .stagger { opacity: 1 !important; }</style>
 
         
 
@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="163.42"
+          width="163.38"
           height="8"
           fill="#41b883"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="163.42"
+          x="163.38"
           y="0"
-          width="97.6"
+          width="97.58"
           height="8"
           fill="#563d7c"
         />
@@ -148,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="261.02"
+          x="260.96"
           y="0"
-          width="88.56"
+          width="88.65"
           height="8"
           fill="#f1e05a"
         />
@@ -158,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="349.58"
+          x="349.61"
           y="0"
-          width="62.45"
+          width="62.43"
           height="8"
           fill="#3572a5"
         />
@@ -168,7 +168,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="412.03"
+          x="412.04"
           y="0"
           width="10.19"
           height="8"
@@ -178,7 +178,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="422.21999999999997"
+          x="422.23"
           y="0"
           width="14.530000000000001"
           height="8"
@@ -188,7 +188,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="426.74999999999994"
+          x="426.76"
           y="0"
           width="12.21"
           height="8"
@@ -198,7 +198,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="428.9599999999999"
+          x="428.96999999999997"
           y="0"
           width="11.03"
           height="8"
@@ -211,21 +211,21 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#41b883" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Vue 38.01%
+        Vue 38.00%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#563d7c" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS 22.70%
+        CSS 22.69%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 20.60%
+        JavaScript 20.62%
       </text>
     </g>
   </g><g transform="translate(0, 75)">

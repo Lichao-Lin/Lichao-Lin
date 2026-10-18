@@ -48,7 +48,7 @@
       }
     
           * { animation-duration: 0s !important; animation-delay: 0s !important; }
-        </style>
+        * { animation: none !important; } .stagger { opacity: 1 !important; }</style>
 
         
 
