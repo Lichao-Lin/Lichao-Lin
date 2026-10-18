@@ -9,12 +9,30 @@
 </p>
 
 <p align="center">
+  <a href="#tools--systems">技术与工具</a> &nbsp; / &nbsp;
+  <a href="#qualifications">语言与资质</a> &nbsp; / &nbsp;
   <a href="#github-at-a-glance">代码概览</a> &nbsp; / &nbsp;
   <a href="#research--publications">研究与论文</a> &nbsp; / &nbsp;
-  <a href="#selected-work">精选项目</a> &nbsp; / &nbsp;
-  <a href="#tools--systems">技术与工具</a> &nbsp; / &nbsp;
-  <a href="#qualifications">语言与资质</a>
+  <a href="#selected-work">精选项目</a>
 </p>
+
+---
+
+## Tools & Systems
+
+| 方向 | 技术与工具 |
+| :--- | :--- |
+| Programming | Python · SQL · C++ · Shell |
+| Infrastructure | Server · Docker · Kubernetes (K8s) · NAS |
+| Automation | PLC |
+| Research | 数据清洗与整合 · 统计分析 · 预测方案对比 · 结果可视化 |
+
+[科研脚本 ↗](https://github.com/Lichao-Lin/research-scripts) &nbsp; · &nbsp; [学习笔记与技能 ↗](https://github.com/Lichao-Lin/notebook)
+
+## Qualifications
+
+- **英语六级（CET-6）**
+- **低压电工证**
 
 ---
 
@@ -59,21 +77,5 @@
   <a href="https://github.com/Lichao-Lin/TaskPool"><img src="assets/cards/taskpool.svg" alt="TaskPool — 本地任务与奖励管理" width="390" /></a>
   <a href="https://github.com/Lichao-Lin/Scrapy-Travel-Recommender"><img src="assets/cards/travel.svg" alt="Scrapy-Travel-Recommender — 旅游推荐项目" width="390" /></a>
 </p>
-
-## Tools & Systems
-
-| 方向 | 技术与工具 |
-| :--- | :--- |
-| Programming | Python · SQL · C++ · Shell |
-| Infrastructure | Server · Docker · Kubernetes (K8s) · NAS |
-| Automation | PLC |
-| Research | 数据清洗与整合 · 统计分析 · 预测方案对比 · 结果可视化 |
-
-[科研脚本 ↗](https://github.com/Lichao-Lin/research-scripts) &nbsp; · &nbsp; [学习笔记与技能 ↗](https://github.com/Lichao-Lin/notebook)
-
-## Qualifications
-
-- **英语六级（CET-6）**
-- **低压电工证**
 
 <p align="center"><sub>Cards powered by <a href="https://github.com/Lichao-Lin/github-readme-stats">GitHub Readme Stats</a></sub></p>
