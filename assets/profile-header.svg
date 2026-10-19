@@ -27,7 +27,6 @@
     <rect x="58" y="56" width="28" height="3" rx="1.5" fill="#77d8c5"/>
     <text x="58" y="95" fill="#8eaaaF" font-family="Segoe UI, Arial, sans-serif" font-size="12" letter-spacing="3.5">RESEARCH / CODE / SYSTEMS</text>
     <text x="54" y="161" fill="#edf3f7" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="600" letter-spacing="-1.7">Lichao Lin</text>
-    <text x="58" y="206" fill="#a5b8c7" font-family="Segoe UI, Arial, sans-serif" font-size="16" letter-spacing="0.5">Financial forecasting. LLM evaluation. Practical engineering.</text>
     <path d="M 58 242 H 1062" stroke="#9fc5d3" stroke-opacity="0.12"/>
   </g>
 </svg>
