@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Hi, I'm Lichao Lin.</strong><br />
-  Graduated from Minjiang University · 闽江大学毕业<br />
-  金融时间序列预测 · 大语言模型评估 · 数据分析与系统实践
+  <strong>Minjiang University</strong><br />
 </p>
 
 <p align="center">
