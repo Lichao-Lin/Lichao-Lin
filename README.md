@@ -9,9 +9,9 @@
 <p align="center">
   <a href="#tools--systems">技术与工具</a> &nbsp; / &nbsp;
   <a href="#qualifications">语言与资质</a> &nbsp; / &nbsp;
+  <a href="#selected-work">精选项目</a> &nbsp; / &nbsp;
   <a href="#github-at-a-glance">代码概览</a> &nbsp; / &nbsp;
-  <a href="#research--publications">研究与论文</a> &nbsp; / &nbsp;
-  <a href="#selected-work">精选项目</a>
+  <a href="#research--publications">研究与论文</a>
 </p>
 
 ---
@@ -31,6 +31,20 @@
 
 - **英语六级（CET-6）**
 - **低压电工证**
+
+
+## Selected Work
+
+<p align="center">
+  <a href="https://github.com/Lichao-Lin/LLM-RumorBench"><img src="assets/cards/rumorbench.svg" alt="LLM-RumorBench — 大语言模型谣言识别实验" width="390" /></a>
+  <a href="https://github.com/Lichao-Lin/research-scripts"><img src="assets/cards/research.svg" alt="科研脚本 — 计量、预测与文本分析" width="390" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Lichao-Lin/TaskPool"><img src="assets/cards/taskpool.svg" alt="TaskPool — 本地任务与奖励管理" width="390" /></a>
+  <a href="https://github.com/Lichao-Lin/Scrapy-Travel-Recommender"><img src="assets/cards/travel.svg" alt="Scrapy-Travel-Recommender — 旅游推荐项目" width="390" /></a>
+</p>
+
+<p align="center"><sub>Cards powered by <a href="https://github.com/Lichao-Lin/github-readme-stats">GitHub Readme Stats</a></sub></p>
 
 ---
 
@@ -62,18 +76,3 @@
 分析多模态认知与信息干预对大语言模型谣言识别能力的影响，构建多视角评估体系。使用 Python 进行数据处理与统计分析，采用 Spearman 相关系数、Cohen’s κ 和加权 κ 等指标，比较模型输出与真实标签的一致性，并对实验结果进行多维度解释。
 
 [论文 DOI ↗](https://doi.org/10.1109/CAIBDA65784.2025.11183156) &nbsp; · &nbsp; [实验仓库 ↗](https://github.com/Lichao-Lin/LLM-RumorBench)
-
----
-
-## Selected Work
-
-<p align="center">
-  <a href="https://github.com/Lichao-Lin/LLM-RumorBench"><img src="assets/cards/rumorbench.svg" alt="LLM-RumorBench — 大语言模型谣言识别实验" width="390" /></a>
-  <a href="https://github.com/Lichao-Lin/research-scripts"><img src="assets/cards/research.svg" alt="科研脚本 — 计量、预测与文本分析" width="390" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Lichao-Lin/TaskPool"><img src="assets/cards/taskpool.svg" alt="TaskPool — 本地任务与奖励管理" width="390" /></a>
-  <a href="https://github.com/Lichao-Lin/Scrapy-Travel-Recommender"><img src="assets/cards/travel.svg" alt="Scrapy-Travel-Recommender — 旅游推荐项目" width="390" /></a>
-</p>
-
-<p align="center"><sub>Cards powered by <a href="https://github.com/Lichao-Lin/github-readme-stats">GitHub Readme Stats</a></sub></p>
