@@ -76,4 +76,3 @@
 分析多模态认知与信息干预对大语言模型谣言识别能力的影响，构建多视角评估体系。使用 Python 进行数据处理与统计分析，采用 Spearman 相关系数、Cohen’s κ 和加权 κ 等指标，比较模型输出与真实标签的一致性，并对实验结果进行多维度解释。
 
 [论文 DOI ↗](https://doi.org/10.1109/CAIBDA65784.2025.11183156) &nbsp; · &nbsp; [实验仓库 ↗](https://github.com/Lichao-Lin/LLM-RumorBench)
-
