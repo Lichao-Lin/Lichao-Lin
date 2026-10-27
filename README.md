@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-header.svg" alt="Lichao Lin — Research, Code, Systems" width="100%" />
+  <img src="assets/profile-header-pink.png" alt="Lichao Lin" width="100%" />
 </p>
 
 <p align="center">
