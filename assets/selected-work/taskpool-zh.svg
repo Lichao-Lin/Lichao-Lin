@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="310" viewBox="0 0 480 310" role="img" aria-labelledby="title desc">
+<title id="title">本地任务管理 与个人奖励</title><desc id="desc">Termxk 本地桌面任务管理器， 整合任务、奖励与日常记录， 使用 SQLite 持久保存数据。</desc>
+<rect x="1" y="1" width="478" height="308" rx="16" fill="#9BC4E1" stroke="#78AACD" stroke-width="2"/>
+<g font-family="'Segoe UI','Microsoft YaHei',Arial,sans-serif"><text x="28" y="38" font-size="12" font-weight="600" letter-spacing="1" fill="#34546B">03 / TaskPool · Termxk</text>
+<path d="M432 31h15v15m0-15-17 17" fill="none" stroke="#18394E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="28" y="85" font-size="26" font-weight="700" fill="#18394E">本地任务管理</text><text x="28" y="117" font-size="26" font-weight="700" fill="#18394E">与个人奖励</text>
+<text x="28" y="161" font-size="15" fill="#18394E">Termxk 本地桌面任务管理器，</text><text x="28" y="184" font-size="15" fill="#18394E">整合任务、奖励与日常记录，</text><text x="28" y="207" font-size="15" fill="#18394E">使用 SQLite 持久保存数据。</text>
+<path d="M28 237H452" stroke="#18394E" stroke-opacity=".16"/>
+<rect x="28" y="258" width="64" height="26" rx="6" fill="#254F69"/><text x="60" y="275" text-anchor="middle" font-size="12" font-weight="600" fill="#FFFFFF">Python</text><rect x="100" y="258" width="58" height="26" rx="6" fill="#254F69"/><text x="129" y="275" text-anchor="middle" font-size="12" font-weight="600" fill="#FFFFFF">HTML</text><rect x="166" y="258" width="64" height="26" rx="6" fill="#254F69"/><text x="198" y="275" text-anchor="middle" font-size="12" font-weight="600" fill="#FFFFFF">SQLite</text></g></svg>

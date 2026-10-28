@@ -22,12 +22,37 @@
 
 ## Tools & Systems
 
-| Area | Technologies & Tools |
-| :--- | :--- |
-| Programming | Python · SQL · C++ · Shell |
-| Infrastructure | Servers · Docker · Kubernetes (K8s) · NAS |
-| Automation | PLC |
-| Research | Data cleaning and integration · Statistical analysis · Forecasting method comparisons · Data visualization |
+<h4>Languages</h4>
+<p>
+  <img src="assets/tech/python.svg" alt="Python" height="30" />
+  <img src="assets/tech/sql.svg" alt="SQL" height="30" />
+  <img src="assets/tech/cpp.svg" alt="C++" height="30" />
+  <img src="assets/tech/shell.svg" alt="Shell" height="30" />
+</p>
+
+<h4>AI &amp; Research</h4>
+<p>
+  <img src="assets/tech/pytorch.svg" alt="PyTorch" height="30" />
+  <img src="assets/tech/pandas.svg" alt="pandas" height="30" />
+  <img src="assets/tech/sklearn.svg" alt="scikit-learn" height="30" />
+  <img src="assets/tech/xgboost.svg" alt="XGBoost" height="30" />
+  <img src="assets/tech/shap.svg" alt="SHAP" height="30" />
+</p>
+
+<h4>Infrastructure</h4>
+<p>
+  <img src="assets/tech/docker.svg" alt="Docker" height="30" />
+  <img src="assets/tech/kubernetes.svg" alt="Kubernetes" height="30" />
+  <img src="assets/tech/server.svg" alt="Servers" height="30" />
+  <img src="assets/tech/nas.svg" alt="NAS" height="30" />
+</p>
+
+<h4>Automation</h4>
+<p>
+  <img src="assets/tech/plc.svg" alt="PLC" height="30" />
+</p>
+
+Data cleaning and integration · Statistical analysis · Forecasting method comparisons · Data visualization
 
 [Research Scripts ↗](https://github.com/Lichao-Lin/research-scripts) &nbsp; · &nbsp; [Learning Notes & Skills ↗](https://github.com/Lichao-Lin/notebook)
 
@@ -38,16 +63,16 @@
 
 ## Selected Work
 
-<p align="center">
-  <a href="https://github.com/Lichao-Lin/LLM-RumorBench"><img src="assets/cards/rumorbench.svg" alt="LLM-RumorBench — Rumor detection experiments with large language models" width="390" /></a>
-  <a href="https://github.com/Lichao-Lin/research-scripts"><img src="assets/cards/research.svg" alt="Research Scripts — Econometrics, forecasting, and text analysis" width="390" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Lichao-Lin/TaskPool"><img src="assets/cards/taskpool.svg" alt="TaskPool — Local task and reward management" width="390" /></a>
-  <a href="https://github.com/Lichao-Lin/Scrapy-Travel-Recommender"><img src="assets/cards/travel.svg" alt="Scrapy-Travel-Recommender — Travel recommendation project" width="390" /></a>
-</p>
-
-<p align="center"><sub>Cards powered by <a href="https://github.com/Lichao-Lin/github-readme-stats">GitHub Readme Stats</a></sub></p>
+<table>
+  <tr>
+    <td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/LLM-RumorBench"><img src="assets/selected-work/rumorbench-en.svg" alt="LLM-RumorBench" width="100%" /></a></td>
+    <td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/research-scripts"><img src="assets/selected-work/research-en.svg" alt="research-scripts" width="100%" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/TaskPool"><img src="assets/selected-work/taskpool-en.svg" alt="TaskPool" width="100%" /></a></td>
+    <td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/Scrapy-Travel-Recommender"><img src="assets/selected-work/travel-en.svg" alt="Scrapy-Travel-Recommender" width="100%" /></a></td>
+  </tr>
+</table>
 
 ---
 
@@ -59,6 +84,8 @@
 </p>
 
 <p align="center"><sub>Public, non-archived original repositories · Updated automatically · Language distribution reflects code volume, not proficiency</sub></p>
+
+<p align="center"><sub>Activity cards powered by <a href="https://github.com/Lichao-Lin/github-readme-stats">GitHub Readme Stats</a></sub></p>
 
 ## Research & Publications
 
