@@ -1,9 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="310" viewBox="0 0 480 310" role="img" aria-labelledby="title desc">
 <title id="title">大语言模型 谣言识别实验</title><desc id="desc">研究多模态认知与信息干预， 结合一致性指标和统计分析， 评估模型的谣言识别表现。</desc>
-<rect x="1" y="1" width="478" height="308" rx="16" fill="#EDC453" stroke="#D4A631" stroke-width="2"/>
-<g font-family="'Segoe UI','Microsoft YaHei',Arial,sans-serif"><text x="28" y="38" font-size="12" font-weight="600" letter-spacing="1" fill="#455040">01 / LLM-RumorBench</text>
-<path d="M432 31h15v15m0-15-17 17" fill="none" stroke="#273027" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="28" y="85" font-size="26" font-weight="700" fill="#273027">大语言模型</text><text x="28" y="117" font-size="26" font-weight="700" fill="#273027">谣言识别实验</text>
-<text x="28" y="161" font-size="15" fill="#273027">研究多模态认知与信息干预，</text><text x="28" y="184" font-size="15" fill="#273027">结合一致性指标和统计分析，</text><text x="28" y="207" font-size="15" fill="#273027">评估模型的谣言识别表现。</text>
-<path d="M28 237H452" stroke="#273027" stroke-opacity=".16"/>
-<rect x="28" y="258" width="64" height="26" rx="6" fill="#374538"/><text x="60" y="275" text-anchor="middle" font-size="12" font-weight="600" fill="#FFFFFF">Python</text><rect x="100" y="258" width="92" height="26" rx="6" fill="#374538"/><text x="146" y="275" text-anchor="middle" font-size="12" font-weight="600" fill="#FFFFFF">Statistics</text><rect x="200" y="258" width="58" height="26" rx="6" fill="#374538"/><text x="229" y="275" text-anchor="middle" font-size="12" font-weight="600" fill="#FFFFFF">LLMs</text></g></svg>
+<defs><clipPath id="card-shape"><rect x="1" y="1" width="478" height="308" rx="16"/></clipPath></defs>
+<g clip-path="url(#card-shape)"><rect width="480" height="310" fill="#99CCFF"/><rect width="480" height="134" fill="#FF8C00"/></g>
+<rect x="1" y="1" width="478" height="308" rx="16" fill="none" stroke="#2977AD" stroke-width="2"/>
+<g font-family="'Segoe UI','Microsoft YaHei',Arial,sans-serif"><text x="28" y="38" font-size="12" font-weight="600" letter-spacing="1" fill="#19364A">01 / LLM-RumorBench</text>
+<path d="M432 31h15v15m0-15-17 17" fill="none" stroke="#102D43" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="28" y="85" font-size="26" font-weight="700" fill="#102D43">大语言模型</text><text x="28" y="117" font-size="26" font-weight="700" fill="#102D43">谣言识别实验</text>
+<text x="28" y="161" font-size="15" fill="#102D43">研究多模态认知与信息干预，</text><text x="28" y="184" font-size="15" fill="#102D43">结合一致性指标和统计分析，</text><text x="28" y="207" font-size="15" fill="#102D43">评估模型的谣言识别表现。</text>
+<path d="M28 237H452" stroke="#102D43" stroke-opacity=".16"/>
+<rect x="28" y="258" width="64" height="26" rx="6" fill="#1D4D72"/><text x="60" y="275" text-anchor="middle" font-size="12" font-weight="600" fill="#FFFFFF">Python</text><rect x="100" y="258" width="92" height="26" rx="6" fill="#1D4D72"/><text x="146" y="275" text-anchor="middle" font-size="12" font-weight="600" fill="#FFFFFF">Statistics</text><rect x="200" y="258" width="58" height="26" rx="6" fill="#1D4D72"/><text x="229" y="275" text-anchor="middle" font-size="12" font-weight="600" fill="#FFFFFF">LLMs</text></g></svg>

@@ -1,9 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="310" viewBox="0 0 480 310" role="img" aria-labelledby="title desc">
 <title id="title">科研脚本 与模型分析</title><desc id="desc">整理计量分析与预测脚本， 涵盖模型解释、文本分析 及可复用的研究工作流程。</desc>
-<rect x="1" y="1" width="478" height="308" rx="16" fill="#9BC4E1" stroke="#78AACD" stroke-width="2"/>
-<g font-family="'Segoe UI','Microsoft YaHei',Arial,sans-serif"><text x="28" y="38" font-size="12" font-weight="600" letter-spacing="1" fill="#34546B">02 / research-scripts</text>
-<path d="M432 31h15v15m0-15-17 17" fill="none" stroke="#18394E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="28" y="85" font-size="26" font-weight="700" fill="#18394E">科研脚本</text><text x="28" y="117" font-size="26" font-weight="700" fill="#18394E">与模型分析</text>
-<text x="28" y="161" font-size="15" fill="#18394E">整理计量分析与预测脚本，</text><text x="28" y="184" font-size="15" fill="#18394E">涵盖模型解释、文本分析</text><text x="28" y="207" font-size="15" fill="#18394E">及可复用的研究工作流程。</text>
-<path d="M28 237H452" stroke="#18394E" stroke-opacity=".16"/>
-<rect x="28" y="258" width="64" height="26" rx="6" fill="#254F69"/><text x="60" y="275" text-anchor="middle" font-size="12" font-weight="600" fill="#FFFFFF">Python</text><rect x="100" y="258" width="71" height="26" rx="6" fill="#254F69"/><text x="135.5" y="275" text-anchor="middle" font-size="12" font-weight="600" fill="#FFFFFF">XGBoost</text><rect x="179" y="258" width="58" height="26" rx="6" fill="#254F69"/><text x="208" y="275" text-anchor="middle" font-size="12" font-weight="600" fill="#FFFFFF">SHAP</text></g></svg>
+<defs><clipPath id="card-shape"><rect x="1" y="1" width="478" height="308" rx="16"/></clipPath></defs>
+<g clip-path="url(#card-shape)"><rect width="480" height="310" fill="#99CCFF"/><rect width="480" height="134" fill="#FF8C00"/></g>
+<rect x="1" y="1" width="478" height="308" rx="16" fill="none" stroke="#2977AD" stroke-width="2"/>
+<g font-family="'Segoe UI','Microsoft YaHei',Arial,sans-serif"><text x="28" y="38" font-size="12" font-weight="600" letter-spacing="1" fill="#19364A">02 / research-scripts</text>
+<path d="M432 31h15v15m0-15-17 17" fill="none" stroke="#102D43" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="28" y="85" font-size="26" font-weight="700" fill="#102D43">科研脚本</text><text x="28" y="117" font-size="26" font-weight="700" fill="#102D43">与模型分析</text>
+<text x="28" y="161" font-size="15" fill="#102D43">整理计量分析与预测脚本，</text><text x="28" y="184" font-size="15" fill="#102D43">涵盖模型解释、文本分析</text><text x="28" y="207" font-size="15" fill="#102D43">及可复用的研究工作流程。</text>
+<path d="M28 237H452" stroke="#102D43" stroke-opacity=".16"/>
+<rect x="28" y="258" width="64" height="26" rx="6" fill="#1D4D72"/><text x="60" y="275" text-anchor="middle" font-size="12" font-weight="600" fill="#FFFFFF">Python</text><rect x="100" y="258" width="71" height="26" rx="6" fill="#1D4D72"/><text x="135.5" y="275" text-anchor="middle" font-size="12" font-weight="600" fill="#FFFFFF">XGBoost</text><rect x="179" y="258" width="58" height="26" rx="6" fill="#1D4D72"/><text x="208" y="275" text-anchor="middle" font-size="12" font-weight="600" fill="#FFFFFF">SHAP</text></g></svg>
