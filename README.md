@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-header-pink.png" alt="Lichao Lin" width="100%" />
+  <img src="assets/profile-header-sky.png" alt="Lichao Lin" width="100%" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/typing/en.svg" alt="Research, code, and systems — animated introduction" width="600" />
+  <img src="assets/typing/en.svg?v=20261029" alt="Research, code, and systems — animated introduction" width="600" />
 </p>
 
 <p align="center">
@@ -28,32 +28,32 @@
 
 <h4>Languages</h4>
 <p>
-  <img src="assets/tech/python.svg" alt="Python" height="30" />
-  <img src="assets/tech/sql.svg" alt="SQL" height="30" />
-  <img src="assets/tech/cpp.svg" alt="C++" height="30" />
-  <img src="assets/tech/shell.svg" alt="Shell" height="30" />
+  <img src="assets/tech/python.svg?v=20261029" alt="Python" height="30" />
+  <img src="assets/tech/sql.svg?v=20261029" alt="SQL" height="30" />
+  <img src="assets/tech/cpp.svg?v=20261029" alt="C++" height="30" />
+  <img src="assets/tech/shell.svg?v=20261029" alt="Shell" height="30" />
 </p>
 
 <h4>AI &amp; Research</h4>
 <p>
-  <img src="assets/tech/pytorch.svg" alt="PyTorch" height="30" />
-  <img src="assets/tech/pandas.svg" alt="pandas" height="30" />
-  <img src="assets/tech/sklearn.svg" alt="scikit-learn" height="30" />
-  <img src="assets/tech/xgboost.svg" alt="XGBoost" height="30" />
-  <img src="assets/tech/shap.svg" alt="SHAP" height="30" />
+  <img src="assets/tech/pytorch.svg?v=20261029" alt="PyTorch" height="30" />
+  <img src="assets/tech/pandas.svg?v=20261029" alt="pandas" height="30" />
+  <img src="assets/tech/sklearn.svg?v=20261029" alt="scikit-learn" height="30" />
+  <img src="assets/tech/xgboost.svg?v=20261029" alt="XGBoost" height="30" />
+  <img src="assets/tech/shap.svg?v=20261029" alt="SHAP" height="30" />
 </p>
 
 <h4>Infrastructure</h4>
 <p>
-  <img src="assets/tech/docker.svg" alt="Docker" height="30" />
-  <img src="assets/tech/kubernetes.svg" alt="Kubernetes" height="30" />
-  <img src="assets/tech/server.svg" alt="Servers" height="30" />
-  <img src="assets/tech/nas.svg" alt="NAS" height="30" />
+  <img src="assets/tech/docker.svg?v=20261029" alt="Docker" height="30" />
+  <img src="assets/tech/kubernetes.svg?v=20261029" alt="Kubernetes" height="30" />
+  <img src="assets/tech/server.svg?v=20261029" alt="Servers" height="30" />
+  <img src="assets/tech/nas.svg?v=20261029" alt="NAS" height="30" />
 </p>
 
 <h4>Automation</h4>
 <p>
-  <img src="assets/tech/plc.svg" alt="PLC" height="30" />
+  <img src="assets/tech/plc.svg?v=20261029" alt="PLC" height="30" />
 </p>
 
 Data cleaning and integration · Statistical analysis · Forecasting method comparisons · Data visualization
@@ -69,12 +69,12 @@ Data cleaning and integration · Statistical analysis · Forecasting method comp
 
 <table>
   <tr>
-    <td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/LLM-RumorBench"><img src="assets/selected-work/rumorbench-en.svg" alt="LLM-RumorBench" width="100%" /></a></td>
-    <td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/research-scripts"><img src="assets/selected-work/research-en.svg" alt="research-scripts" width="100%" /></a></td>
+    <td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/LLM-RumorBench"><img src="assets/selected-work/rumorbench-en.svg?v=20261029" alt="LLM-RumorBench" width="100%" /></a></td>
+    <td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/research-scripts"><img src="assets/selected-work/research-en.svg?v=20261029" alt="research-scripts" width="100%" /></a></td>
   </tr>
   <tr>
-    <td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/TaskPool"><img src="assets/selected-work/taskpool-en.svg" alt="TaskPool" width="100%" /></a></td>
-    <td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/Scrapy-Travel-Recommender"><img src="assets/selected-work/travel-en.svg" alt="Scrapy-Travel-Recommender" width="100%" /></a></td>
+    <td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/TaskPool"><img src="assets/selected-work/taskpool-en.svg?v=20261029" alt="TaskPool" width="100%" /></a></td>
+    <td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/Scrapy-Travel-Recommender"><img src="assets/selected-work/travel-en.svg?v=20261029" alt="Scrapy-Travel-Recommender" width="100%" /></a></td>
   </tr>
 </table>
 
