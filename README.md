@@ -11,6 +11,10 @@
 </p>
 
 <p align="center">
+  <img src="assets/typing/en.svg" alt="Research, code, and systems — animated introduction" width="600" />
+</p>
+
+<p align="center">
   <a href="#tools--systems">Tools &amp; Systems</a> &nbsp; / &nbsp;
   <a href="#qualifications">Qualifications</a> &nbsp; / &nbsp;
   <a href="#selected-work">Selected Work</a> &nbsp; / &nbsp;

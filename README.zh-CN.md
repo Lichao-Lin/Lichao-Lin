@@ -11,6 +11,10 @@
 </p>
 
 <p align="center">
+  <img src="assets/typing/zh.svg" alt="研究、代码与系统——打字效果" width="600" />
+</p>
+
+<p align="center">
   <a href="#tools--systems">技术与工具</a> &nbsp; / &nbsp;
   <a href="#qualifications">语言与资质</a> &nbsp; / &nbsp;
   <a href="#selected-work">精选项目</a> &nbsp; / &nbsp;
