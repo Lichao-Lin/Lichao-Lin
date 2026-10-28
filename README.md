@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-header-sky.png" alt="Lichao Lin" width="100%" />
+  <img src="assets/profile-header-comic.png" alt="Lichao Lin" width="100%" />
 </p>
 
 <p align="center">
