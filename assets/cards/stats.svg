@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Public Repository Activity</title>
-        <desc id="descId">Total Stars Earned: 23, Total Commits  : 101, Total PRs: 16, Total Issues: 8</desc>
+        <desc id="descId">Total Stars Earned: 25, Total Commits  : 101, Total PRs: 16, Total Issues: 8</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -151,7 +151,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >23</text>
+      >25</text>
     </g>
   </g><g transform="translate(0, 28)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
