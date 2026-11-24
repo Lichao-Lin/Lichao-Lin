@@ -9,58 +9,37 @@ I work on machine learning, time-series forecasting and LLM evaluation, and buil
 
 ---
 
-<a id="research"></a>
+<a id="activity"></a>
 
-## Research
+## Activity
 
-### 01 / Cross-Asset Volatility Forecasting
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-blue-dark.svg" />
+  <img src="profile-3d-contrib/profile-blue.svg" alt="Lichao Lin — GitHub contribution calendar in 3D" width="100%" />
+</picture>
+</p>
 
-**Cross-Asset Volatility Forecasting with HAR-Guided LSTM Residual Learning**
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity/activity-dark.svg" />
+  <img src="assets/activity/activity-light.svg" alt="Daily GitHub contributions over the latest 31 days" width="100%" />
+</picture>
+</p>
 
-`IIIHSMP · Accepted`
+<p align="center"><sub>A year of contributions in 3D · Daily contributions over the latest 31 days · Real GitHub calendar data, refreshed daily</sub></p>
 
-Developed a hybrid HAR–LSTM forecasting model using financial data from multiple sources, covering data cleaning and integration, comparative experiments, and result visualization.
+<p align="center">
+  <a href="https://github.com/Lichao-Lin?tab=repositories"><img src="assets/cards/stats.svg" alt="Public GitHub repository activity" width="48%" /></a>
+  <a href="https://github.com/Lichao-Lin?tab=repositories"><img src="assets/cards/languages.svg" alt="Language distribution by code volume" width="48%" /></a>
+</p>
 
-[Model implementation & extensions ↗](https://github.com/Lichao-Lin/HAR-Residual-LSTM)
+<p align="center"><sub>Public, non-archived original repositories · Refreshed daily · Language share reflects code volume, not proficiency</sub></p>
+<p align="center"><sub>Powered by <a href="https://github.com/Lichao-Lin/github-readme-stats">GitHub Readme Stats</a></sub></p>
 
-### 02 / Rumor Detection in Large Language Models
+<!-- Technology icons: Devicon (MIT), https://github.com/devicons/devicon. See assets/stack/LICENSE. -->
 
-**Evaluating the Impact of Multimodal Cognitive and Informational Interventions on Rumor Detection in Large Language Models: A DeepSeek Case Study**
-
-`IEEE Xplore · Indexed` &nbsp; `EI Compendex · Indexed`
-
-Studied how multimodal cognitive and informational interventions affect rumor detection in large language models through a multi-perspective evaluation framework. Used Python for data processing and statistical analysis, applying Spearman correlation, Cohen’s κ, and weighted κ to assess agreement between model outputs and ground-truth labels and interpret the findings from multiple perspectives.
-
-[Paper DOI ↗](https://doi.org/10.1109/CAIBDA65784.2025.11183156) &nbsp; · &nbsp; [Experiment Repository ↗](https://github.com/Lichao-Lin/LLM-RumorBench)
-
-<a id="selected-work"></a>
-
-## Selected Work
-
-<table>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/HAR-Residual-LSTM"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio/har-en-dark.svg" />
-  <img src="assets/portfolio/har-en-light.svg" alt="HAR–Residual–LSTM" width="100%" />
-</picture></a></td>
-<td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/LLM-RumorBench"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio/rumor-en-dark.svg" />
-  <img src="assets/portfolio/rumor-en-light.svg" alt="LLM–RumorBench" width="100%" />
-</picture></a></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/TaskPool"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio/termxk-en-dark.svg" />
-  <img src="assets/portfolio/termxk-en-light.svg" alt="Termxk" width="100%" />
-</picture></a></td>
-<td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/Scrapy-Travel-Recommender"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio/travel-en-dark.svg" />
-  <img src="assets/portfolio/travel-en-light.svg" alt="Travel Recommender" width="100%" />
-</picture></a></td>
-</tr>
-</table>
-
-More research tools: [research-scripts ↗](https://github.com/Lichao-Lin/research-scripts)
+<!-- 3D calendar generated with https://github.com/yoshi389111/github-profile-3d-contrib -->
 
 <a id="toolkit"></a>
 
@@ -96,16 +75,58 @@ College English Test, Band 6 (CET-6) · Low-Voltage Electrician Certificate
 
 </details>
 
-<a id="activity"></a>
 
-## Activity
+<a id="research"></a>
 
-<p align="center">
-  <a href="https://github.com/Lichao-Lin?tab=repositories"><img src="assets/cards/stats.svg" alt="Public GitHub repository activity" width="48%" /></a>
-  <a href="https://github.com/Lichao-Lin?tab=repositories"><img src="assets/cards/languages.svg" alt="Language distribution by code volume" width="48%" /></a>
-</p>
+## Research
 
-<p align="center"><sub>Public, non-archived original repositories · Refreshed daily · Language share reflects code volume, not proficiency</sub></p>
-<p align="center"><sub>Powered by <a href="https://github.com/Lichao-Lin/github-readme-stats">GitHub Readme Stats</a></sub></p>
+### 01 / Cross-Asset Volatility Forecasting
 
-<!-- Technology icons: Devicon (MIT), https://github.com/devicons/devicon. See assets/stack/LICENSE. -->
+**Cross-Asset Volatility Forecasting with HAR-Guided LSTM Residual Learning**
+
+`IIIHSMP · Accepted`
+
+Developed a hybrid HAR–LSTM forecasting model using financial data from multiple sources, covering data cleaning and integration, comparative experiments, and result visualization.
+
+[Model implementation & extensions ↗](https://github.com/Lichao-Lin/HAR-Residual-LSTM)
+
+### 02 / Rumor Detection in Large Language Models
+
+**Evaluating the Impact of Multimodal Cognitive and Informational Interventions on Rumor Detection in Large Language Models: A DeepSeek Case Study**
+
+`IEEE Xplore · Indexed` &nbsp; `EI Compendex · Indexed`
+
+Studied how multimodal cognitive and informational interventions affect rumor detection in large language models through a multi-perspective evaluation framework. Used Python for data processing and statistical analysis, applying Spearman correlation, Cohen’s κ, and weighted κ to assess agreement between model outputs and ground-truth labels and interpret the findings from multiple perspectives.
+
+[Paper DOI ↗](https://doi.org/10.1109/CAIBDA65784.2025.11183156) &nbsp; · &nbsp; [Experiment Repository ↗](https://github.com/Lichao-Lin/LLM-RumorBench)
+
+
+<a id="selected-work"></a>
+
+## Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/HAR-Residual-LSTM"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio/har-en-dark.svg" />
+  <img src="assets/portfolio/har-en-light.svg" alt="HAR–Residual–LSTM" width="100%" />
+</picture></a></td>
+<td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/LLM-RumorBench"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio/rumor-en-dark.svg" />
+  <img src="assets/portfolio/rumor-en-light.svg" alt="LLM–RumorBench" width="100%" />
+</picture></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/TaskPool"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio/termxk-en-dark.svg" />
+  <img src="assets/portfolio/termxk-en-light.svg" alt="Termxk" width="100%" />
+</picture></a></td>
+<td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/Scrapy-Travel-Recommender"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio/travel-en-dark.svg" />
+  <img src="assets/portfolio/travel-en-light.svg" alt="Travel Recommender" width="100%" />
+</picture></a></td>
+</tr>
+</table>
+
+More research tools: [research-scripts ↗](https://github.com/Lichao-Lin/research-scripts)
+

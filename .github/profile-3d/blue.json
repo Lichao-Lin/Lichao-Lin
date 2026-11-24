@@ -7,7 +7,7 @@
     "strongColor": "#17202d",
     "weakColor": "#667085",
     "radarColor": "#2563eb",
-    "growingAnimation": true,
+    "growingAnimation": false,
     "contribColors": ["#edf1f7", "#dbeafe", "#93c5fd", "#60a5fa", "#2563eb"]
   },
   {
@@ -18,7 +18,7 @@
     "strongColor": "#f0f6fc",
     "weakColor": "#8b949e",
     "radarColor": "#60a5fa",
-    "growingAnimation": true,
+    "growingAnimation": false,
     "contribColors": ["#161b22", "#1e3a8a", "#2563eb", "#3b82f6", "#93c5fd"]
   }
 ]
