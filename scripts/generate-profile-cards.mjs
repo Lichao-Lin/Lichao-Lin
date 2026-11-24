@@ -43,7 +43,7 @@ for (const repo of repos) {
     languages[name].size += size;
   }
 }
-const palette = { bg_color: '0b1220', title_color: '77d8c5', text_color: 'b8c7d5', icon_color: '77d8c5', hide_border: true, border_radius: 0, disable_animations: true };
+const palette = { bg_color: '101318', title_color: 'a8c7fa', text_color: 'a4adbb', icon_color: 'a8c7fa', hide_border: true, border_radius: 0, disable_animations: true };
 const stats = { name: username, totalStars: repos.reduce((sum, repo) => sum + repo.stargazers_count, 0), totalCommits, totalPRs, totalIssues, contributedTo: 0, rank: { level: '', percentile: 100 } };
 const outputs = [
   ['stats', renderStatsCard(stats, { ...palette, custom_title: 'Public Repository Activity', show_icons: true, hide_rank: true, hide: ['contribs'], include_all_commits: true, card_width: 480, line_height: 28 }), 210],
@@ -66,7 +66,7 @@ const framed = outputs.map(([name, svg, minHeight]) => {
   const height = Number(root?.match(/\bheight="([\d.]+)(?:px)?"/)?.[1]);
   if (!width || !height) throw new Error(`Invalid SVG dimensions: ${name}`);
   const outerHeight = Math.max(minHeight, height + 16);
-  return [name, `<svg xmlns="http://www.w3.org/2000/svg" width="480" height="${outerHeight}" viewBox="0 0 480 ${outerHeight}" role="img" aria-label="${name}"><rect x="0.5" y="0.5" width="479" height="${outerHeight - 1}" rx="14" fill="#0b1220" stroke="#233447"/>${svg.replace(root, root.replace('<svg', `<svg x="${(480 - width) / 2}" y="${(outerHeight - height) / 2}"`))}</svg>`];
+  return [name, `<svg xmlns="http://www.w3.org/2000/svg" width="480" height="${outerHeight}" viewBox="0 0 480 ${outerHeight}" role="img" aria-label="${name}"><rect x="0.5" y="0.5" width="479" height="${outerHeight - 1}" rx="14" fill="#101318" stroke="#2c333e"/>${svg.replace(root, root.replace('<svg', `<svg x="${(480 - width) / 2}" y="${(outerHeight - height) / 2}"`))}</svg>`];
 });
 // A fetch/render failure above leaves every existing card untouched.
 await mkdir('assets/cards', { recursive: true });

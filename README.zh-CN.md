@@ -1,106 +1,16 @@
-<p align="center">
-  <img src="assets/profile-header-comic-v2.png" alt="Lichao Lin" width="100%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio/hero-zh-dark.svg" />
+  <img src="assets/portfolio/hero-zh-light.svg" alt="Lichao Lin — Research, Code & Systems" width="100%" />
+</picture>
 
-<p align="center">
-  <a href="README.md">English</a> &nbsp; / &nbsp; <strong>简体中文</strong>
-</p>
+<p align="center"><a href="README.md">English</a> &nbsp; / &nbsp; <strong>简体中文</strong></p>
+<p align="center"><a href="#research">研究与论文</a> &nbsp; / &nbsp; <a href="#selected-work">精选项目</a> &nbsp; / &nbsp; <a href="#toolkit">技术与工具</a> &nbsp; / &nbsp; <a href="#activity">代码概览</a></p>
 
-<p align="center">
-  <strong>闽江大学</strong><br />
-</p>
-
-<p align="center">
-  <img src="assets/typing/zh.svg?v=20261029" alt="研究、代码与系统——打字效果" width="600" />
-</p>
-
-<p align="center">
-  <a href="#tools--systems">技术与工具</a> &nbsp; / &nbsp;
-  <a href="#qualifications">语言与资质</a> &nbsp; / &nbsp;
-  <a href="#selected-work">精选项目</a> &nbsp; / &nbsp;
-  <a href="#github-at-a-glance">代码概览</a> &nbsp; / &nbsp;
-  <a href="#research--publications">研究与论文</a>
-</p>
+关注机器学习、时间序列预测与大语言模型评估，也开发日常使用的软件工具。这里记录我的研究实验、开源项目与系统实践。
 
 ---
 
-<a id="tools--systems"></a>
-
-## 技术与工具
-
-<h4>编程语言</h4>
-<p>
-  <img src="assets/tech/python.svg?v=20261029" alt="Python" height="30" />
-  <img src="assets/tech/sql.svg?v=20261029" alt="SQL" height="30" />
-  <img src="assets/tech/cpp.svg?v=20261029" alt="C++" height="30" />
-  <img src="assets/tech/shell.svg?v=20261029" alt="Shell" height="30" />
-</p>
-
-<h4>AI 与研究工具</h4>
-<p>
-  <img src="assets/tech/pytorch.svg?v=20261029" alt="PyTorch" height="30" />
-  <img src="assets/tech/pandas.svg?v=20261029" alt="pandas" height="30" />
-  <img src="assets/tech/sklearn.svg?v=20261029" alt="scikit-learn" height="30" />
-  <img src="assets/tech/xgboost.svg?v=20261029" alt="XGBoost" height="30" />
-  <img src="assets/tech/shap.svg?v=20261029" alt="SHAP" height="30" />
-</p>
-
-<h4>基础设施</h4>
-<p>
-  <img src="assets/tech/docker.svg?v=20261029" alt="Docker" height="30" />
-  <img src="assets/tech/kubernetes.svg?v=20261029" alt="Kubernetes" height="30" />
-  <img src="assets/tech/server.svg?v=20261029" alt="Servers" height="30" />
-  <img src="assets/tech/nas.svg?v=20261029" alt="NAS" height="30" />
-</p>
-
-<h4>自动化</h4>
-<p>
-  <img src="assets/tech/plc.svg?v=20261029" alt="PLC" height="30" />
-</p>
-
-数据清洗与整合 · 统计分析 · 预测方案对比 · 结果可视化
-
-[科研脚本 ↗](https://github.com/Lichao-Lin/research-scripts) &nbsp; · &nbsp; [学习笔记与技能 ↗](https://github.com/Lichao-Lin/notebook)
-
-<a id="qualifications"></a>
-
-## 语言与资质
-
-- **英语六级（CET-6）**
-- **低压电工证**
-
-
-<a id="selected-work"></a>
-
-## 精选项目
-
-<table>
-  <tr>
-    <td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/LLM-RumorBench"><img src="assets/selected-work/rumorbench-zh.svg?v=20261029" alt="LLM-RumorBench" width="100%" /></a></td>
-    <td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/research-scripts"><img src="assets/selected-work/research-zh.svg?v=20261029" alt="research-scripts" width="100%" /></a></td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/TaskPool"><img src="assets/selected-work/taskpool-zh.svg?v=20261029" alt="TaskPool" width="100%" /></a></td>
-    <td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/Scrapy-Travel-Recommender"><img src="assets/selected-work/travel-zh.svg?v=20261029" alt="Scrapy-Travel-Recommender" width="100%" /></a></td>
-  </tr>
-</table>
-
----
-
-<a id="github-at-a-glance"></a>
-
-## 代码概览
-
-<p align="center">
-  <a href="https://github.com/Lichao-Lin?tab=repositories"><img src="assets/cards/stats.svg" alt="Lichao Lin 的公开 GitHub 活动统计" width="390" /></a>
-  <a href="https://github.com/Lichao-Lin?tab=repositories"><img src="assets/cards/languages.svg" alt="公开原创仓库的语言分布" width="390" /></a>
-</p>
-
-<p align="center"><sub>公开、未归档的原创仓库统计 · 自动更新 · 语言分布反映代码量，不代表熟练程度</sub></p>
-
-<p align="center"><sub>活动统计卡片由 <a href="https://github.com/Lichao-Lin/github-readme-stats">GitHub Readme Stats</a> 生成</sub></p>
-
-<a id="research--publications"></a>
+<a id="research"></a>
 
 ## 研究与论文
 
@@ -112,6 +22,8 @@
 
 基于多源金融数据构建 HAR–LSTM 融合深度学习预测模型，完成数据清洗与整合、方案对比和结果可视化。
 
+[模型实现与扩展 ↗](https://github.com/Lichao-Lin/HAR-Residual-LSTM)
+
 ### 02 / 大语言模型谣言识别
 
 **Evaluating the Impact of Multimodal Cognitive and Informational Interventions on Rumor Detection in Large Language Models: A DeepSeek Case Study**
@@ -121,3 +33,62 @@
 分析多模态认知与信息干预对大语言模型谣言识别能力的影响，构建多视角评估体系。使用 Python 进行数据处理与统计分析，采用 Spearman 相关系数、Cohen’s κ 和加权 κ 等指标，比较模型输出与真实标签的一致性，并对实验结果进行多维度解释。
 
 [论文 DOI ↗](https://doi.org/10.1109/CAIBDA65784.2025.11183156) &nbsp; · &nbsp; [实验仓库 ↗](https://github.com/Lichao-Lin/LLM-RumorBench)
+
+<a id="selected-work"></a>
+
+## 精选项目
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/HAR-Residual-LSTM"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio/har-zh-dark.svg" />
+  <img src="assets/portfolio/har-zh-light.svg" alt="HAR–Residual–LSTM" width="100%" />
+</picture></a></td>
+<td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/LLM-RumorBench"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio/rumor-zh-dark.svg" />
+  <img src="assets/portfolio/rumor-zh-light.svg" alt="LLM–RumorBench" width="100%" />
+</picture></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/TaskPool"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio/termxk-zh-dark.svg" />
+  <img src="assets/portfolio/termxk-zh-light.svg" alt="Termxk" width="100%" />
+</picture></a></td>
+<td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/Scrapy-Travel-Recommender"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio/travel-zh-dark.svg" />
+  <img src="assets/portfolio/travel-zh-light.svg" alt="Travel Recommender" width="100%" />
+</picture></a></td>
+</tr>
+</table>
+
+更多研究工具：[research-scripts ↗](https://github.com/Lichao-Lin/research-scripts)
+
+<a id="toolkit"></a>
+
+## 技术与工具
+
+| 方向 | 技术与实践 |
+| :--- | :--- |
+| 编程与数据 | Python · SQL · C++ · Shell |
+| 机器学习 | PyTorch · scikit-learn · XGBoost · SHAP |
+| 研究流程 | pandas · 数据清洗 · 统计分析 · 预测对比 · 可视化 |
+| 系统与自动化 | Docker · Kubernetes · Servers · NAS · PLC |
+
+<details>
+<summary>语言与资质</summary>
+
+英语六级（CET-6） · 低压电工证
+
+</details>
+
+<a id="activity"></a>
+
+## 代码概览
+
+<p align="center">
+  <a href="https://github.com/Lichao-Lin?tab=repositories"><img src="assets/cards/stats.svg" alt="Public GitHub repository activity" width="48%" /></a>
+  <a href="https://github.com/Lichao-Lin?tab=repositories"><img src="assets/cards/languages.svg" alt="Language distribution by code volume" width="48%" /></a>
+</p>
+
+<p align="center"><sub>公开、未归档的原创仓库 · 每日自动更新 · 语言分布反映代码量，不代表熟练程度</sub></p>
+<p align="center"><sub>Powered by <a href="https://github.com/Lichao-Lin/github-readme-stats">GitHub Readme Stats</a></sub></p>
