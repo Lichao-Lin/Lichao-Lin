@@ -1,7 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio/hero-zh-dark.svg" />
-  <img src="assets/portfolio/hero-zh-light.svg" alt="Lichao Lin — Research, Code & Systems" width="100%" />
-</picture>
+<p align="center">
+  <img src="assets/profile-header-comic-v2.png" alt="Lichao Lin" width="100%" />
+</p>
 
 <p align="center"><a href="README.md">English</a> &nbsp; / &nbsp; <strong>简体中文</strong></p>
 <p align="center"><a href="#research">研究与论文</a> &nbsp; / &nbsp; <a href="#selected-work">精选项目</a> &nbsp; / &nbsp; <a href="#toolkit">技术与工具</a> &nbsp; / &nbsp; <a href="#activity">代码概览</a></p>
@@ -67,6 +66,22 @@
 
 ## 技术与工具
 
+<p align="center">
+  <img src="assets/stack/python.svg" alt="Python" width="72" height="84" />
+  <img src="assets/stack/cplusplus.svg" alt="C++" width="72" height="84" />
+  <img src="assets/stack/pytorch.svg" alt="PyTorch" width="72" height="84" />
+  <img src="assets/stack/pandas.svg" alt="pandas" width="72" height="84" />
+  <img src="assets/stack/scikitlearn.svg" alt="scikit-learn" width="72" height="84" />
+  <img src="assets/stack/vuejs.svg" alt="Vue.js" width="72" height="84" />
+  <img src="assets/stack/django.svg" alt="Django" width="72" height="84" /><br />
+  <img src="assets/stack/mysql.svg" alt="MySQL" width="72" height="84" />
+  <img src="assets/stack/docker.svg" alt="Docker" width="72" height="84" />
+  <img src="assets/stack/kubernetes.svg" alt="Kubernetes" width="72" height="84" />
+  <img src="assets/stack/bash.svg" alt="Bash" width="72" height="84" />
+  <img src="assets/stack/git.svg" alt="Git" width="72" height="84" />
+  <img src="assets/stack/linux.svg" alt="Linux" width="72" height="84" />
+</p>
+
 | 方向 | 技术与实践 |
 | :--- | :--- |
 | 编程与数据 | Python · SQL · C++ · Shell |
@@ -92,3 +107,5 @@
 
 <p align="center"><sub>公开、未归档的原创仓库 · 每日自动更新 · 语言分布反映代码量，不代表熟练程度</sub></p>
 <p align="center"><sub>Powered by <a href="https://github.com/Lichao-Lin/github-readme-stats">GitHub Readme Stats</a></sub></p>
+
+<!-- Technology icons: Devicon (MIT), https://github.com/devicons/devicon. See assets/stack/LICENSE. -->

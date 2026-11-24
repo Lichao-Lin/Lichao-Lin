@@ -1,7 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio/hero-en-dark.svg" />
-  <img src="assets/portfolio/hero-en-light.svg" alt="Lichao Lin — Research, Code & Systems" width="100%" />
-</picture>
+<p align="center">
+  <img src="assets/profile-header-comic-v2.png" alt="Lichao Lin" width="100%" />
+</p>
 
 <p align="center"><strong>English</strong> &nbsp; / &nbsp; <a href="README.zh-CN.md">简体中文</a></p>
 <p align="center"><a href="#research">Research</a> &nbsp; / &nbsp; <a href="#selected-work">Selected Work</a> &nbsp; / &nbsp; <a href="#toolkit">Toolkit</a> &nbsp; / &nbsp; <a href="#activity">Activity</a></p>
@@ -67,6 +66,22 @@ More research tools: [research-scripts ↗](https://github.com/Lichao-Lin/resear
 
 ## Toolkit
 
+<p align="center">
+  <img src="assets/stack/python.svg" alt="Python" width="72" height="84" />
+  <img src="assets/stack/cplusplus.svg" alt="C++" width="72" height="84" />
+  <img src="assets/stack/pytorch.svg" alt="PyTorch" width="72" height="84" />
+  <img src="assets/stack/pandas.svg" alt="pandas" width="72" height="84" />
+  <img src="assets/stack/scikitlearn.svg" alt="scikit-learn" width="72" height="84" />
+  <img src="assets/stack/vuejs.svg" alt="Vue.js" width="72" height="84" />
+  <img src="assets/stack/django.svg" alt="Django" width="72" height="84" /><br />
+  <img src="assets/stack/mysql.svg" alt="MySQL" width="72" height="84" />
+  <img src="assets/stack/docker.svg" alt="Docker" width="72" height="84" />
+  <img src="assets/stack/kubernetes.svg" alt="Kubernetes" width="72" height="84" />
+  <img src="assets/stack/bash.svg" alt="Bash" width="72" height="84" />
+  <img src="assets/stack/git.svg" alt="Git" width="72" height="84" />
+  <img src="assets/stack/linux.svg" alt="Linux" width="72" height="84" />
+</p>
+
 | Area | Tools & practice |
 | :--- | :--- |
 | Programming & data | Python · SQL · C++ · Shell |
@@ -92,3 +107,5 @@ College English Test, Band 6 (CET-6) · Low-Voltage Electrician Certificate
 
 <p align="center"><sub>Public, non-archived original repositories · Refreshed daily · Language share reflects code volume, not proficiency</sub></p>
 <p align="center"><sub>Powered by <a href="https://github.com/Lichao-Lin/github-readme-stats">GitHub Readme Stats</a></sub></p>
+
+<!-- Technology icons: Devicon (MIT), https://github.com/devicons/devicon. See assets/stack/LICENSE. -->
