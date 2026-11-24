@@ -7,6 +7,7 @@ on:
       - .github/workflows/contributions.yml
       - .github/profile-3d/blue.json
       - scripts/generate-contribution-graph.mjs
+      - scripts/layout-contributions.py
   schedule:
     - cron: '43 18 * * *'
   workflow_dispatch:
@@ -33,6 +34,8 @@ jobs:
       - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020
         with:
           node-version: '22'
+      - name: Arrange 3D profile panels
+        run: python scripts/layout-contributions.py
       - name: Generate daily contribution line graphs
         run: node scripts/generate-contribution-graph.mjs
         env:

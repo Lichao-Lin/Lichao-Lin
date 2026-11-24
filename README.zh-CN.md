@@ -3,11 +3,40 @@
 </p>
 
 <p align="center"><a href="README.md">English</a> &nbsp; / &nbsp; <strong>简体中文</strong></p>
-<p align="center"><a href="#activity">贡献可视化</a> &nbsp; / &nbsp; <a href="#toolkit">技术栈</a> &nbsp; / &nbsp; <a href="#research">研究与论文</a> &nbsp; / &nbsp; <a href="#selected-work">精选项目</a></p>
+<p align="center"><a href="#selected-work">精选项目</a> &nbsp; / &nbsp; <a href="#activity">贡献可视化</a> &nbsp; / &nbsp; <a href="#toolkit">技术栈</a> &nbsp; / &nbsp; <a href="#research">研究与论文</a></p>
 
 关注机器学习、时间序列预测与大语言模型评估，也开发日常使用的软件工具。这里记录我的研究实验、开源项目与系统实践。
 
 ---
+
+<a id="selected-work"></a>
+
+## 精选项目
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/HAR-Residual-LSTM"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio/har-zh-dark.svg" />
+  <img src="assets/portfolio/har-zh-light.svg" alt="HAR–Residual–LSTM" width="100%" />
+</picture></a></td>
+<td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/LLM-RumorBench"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio/rumor-zh-dark.svg" />
+  <img src="assets/portfolio/rumor-zh-light.svg" alt="LLM–RumorBench" width="100%" />
+</picture></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/TaskPool"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio/termxk-zh-dark.svg" />
+  <img src="assets/portfolio/termxk-zh-light.svg" alt="Termxk" width="100%" />
+</picture></a></td>
+<td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/Scrapy-Travel-Recommender"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio/travel-zh-dark.svg" />
+  <img src="assets/portfolio/travel-zh-light.svg" alt="Travel Recommender" width="100%" />
+</picture></a></td>
+</tr>
+</table>
+
+更多研究工具：[research-scripts ↗](https://github.com/Lichao-Lin/research-scripts)
 
 <a id="activity"></a>
 
@@ -75,7 +104,6 @@
 
 </details>
 
-
 <a id="research"></a>
 
 ## 研究与论文
@@ -99,34 +127,3 @@
 分析多模态认知与信息干预对大语言模型谣言识别能力的影响，构建多视角评估体系。使用 Python 进行数据处理与统计分析，采用 Spearman 相关系数、Cohen’s κ 和加权 κ 等指标，比较模型输出与真实标签的一致性，并对实验结果进行多维度解释。
 
 [论文 DOI ↗](https://doi.org/10.1109/CAIBDA65784.2025.11183156) &nbsp; · &nbsp; [实验仓库 ↗](https://github.com/Lichao-Lin/LLM-RumorBench)
-
-
-<a id="selected-work"></a>
-
-## 精选项目
-
-<table>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/HAR-Residual-LSTM"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio/har-zh-dark.svg" />
-  <img src="assets/portfolio/har-zh-light.svg" alt="HAR–Residual–LSTM" width="100%" />
-</picture></a></td>
-<td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/LLM-RumorBench"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio/rumor-zh-dark.svg" />
-  <img src="assets/portfolio/rumor-zh-light.svg" alt="LLM–RumorBench" width="100%" />
-</picture></a></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/TaskPool"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio/termxk-zh-dark.svg" />
-  <img src="assets/portfolio/termxk-zh-light.svg" alt="Termxk" width="100%" />
-</picture></a></td>
-<td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/Scrapy-Travel-Recommender"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio/travel-zh-dark.svg" />
-  <img src="assets/portfolio/travel-zh-light.svg" alt="Travel Recommender" width="100%" />
-</picture></a></td>
-</tr>
-</table>
-
-更多研究工具：[research-scripts ↗](https://github.com/Lichao-Lin/research-scripts)
-

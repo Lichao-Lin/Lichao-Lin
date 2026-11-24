@@ -3,11 +3,40 @@
 </p>
 
 <p align="center"><strong>English</strong> &nbsp; / &nbsp; <a href="README.zh-CN.md">简体中文</a></p>
-<p align="center"><a href="#research">Research</a> &nbsp; / &nbsp; <a href="#selected-work">Selected Work</a> &nbsp; / &nbsp; <a href="#toolkit">Toolkit</a> &nbsp; / &nbsp; <a href="#activity">Activity</a></p>
+<p align="center"><a href="#selected-work">Selected Work</a> &nbsp; / &nbsp; <a href="#activity">Activity</a> &nbsp; / &nbsp; <a href="#toolkit">Toolkit</a> &nbsp; / &nbsp; <a href="#research">Research</a></p>
 
 I work on machine learning, time-series forecasting and LLM evaluation, and build software for everyday use. This is a collection of my research experiments, open-source projects and systems work.
 
 ---
+
+<a id="selected-work"></a>
+
+## Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/HAR-Residual-LSTM"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio/har-en-dark.svg" />
+  <img src="assets/portfolio/har-en-light.svg" alt="HAR–Residual–LSTM" width="100%" />
+</picture></a></td>
+<td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/LLM-RumorBench"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio/rumor-en-dark.svg" />
+  <img src="assets/portfolio/rumor-en-light.svg" alt="LLM–RumorBench" width="100%" />
+</picture></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/TaskPool"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio/termxk-en-dark.svg" />
+  <img src="assets/portfolio/termxk-en-light.svg" alt="Termxk" width="100%" />
+</picture></a></td>
+<td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/Scrapy-Travel-Recommender"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio/travel-en-dark.svg" />
+  <img src="assets/portfolio/travel-en-light.svg" alt="Travel Recommender" width="100%" />
+</picture></a></td>
+</tr>
+</table>
+
+More research tools: [research-scripts ↗](https://github.com/Lichao-Lin/research-scripts)
 
 <a id="activity"></a>
 
@@ -75,7 +104,6 @@ College English Test, Band 6 (CET-6) · Low-Voltage Electrician Certificate
 
 </details>
 
-
 <a id="research"></a>
 
 ## Research
@@ -99,34 +127,3 @@ Developed a hybrid HAR–LSTM forecasting model using financial data from multip
 Studied how multimodal cognitive and informational interventions affect rumor detection in large language models through a multi-perspective evaluation framework. Used Python for data processing and statistical analysis, applying Spearman correlation, Cohen’s κ, and weighted κ to assess agreement between model outputs and ground-truth labels and interpret the findings from multiple perspectives.
 
 [Paper DOI ↗](https://doi.org/10.1109/CAIBDA65784.2025.11183156) &nbsp; · &nbsp; [Experiment Repository ↗](https://github.com/Lichao-Lin/LLM-RumorBench)
-
-
-<a id="selected-work"></a>
-
-## Selected Work
-
-<table>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/HAR-Residual-LSTM"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio/har-en-dark.svg" />
-  <img src="assets/portfolio/har-en-light.svg" alt="HAR–Residual–LSTM" width="100%" />
-</picture></a></td>
-<td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/LLM-RumorBench"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio/rumor-en-dark.svg" />
-  <img src="assets/portfolio/rumor-en-light.svg" alt="LLM–RumorBench" width="100%" />
-</picture></a></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/TaskPool"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio/termxk-en-dark.svg" />
-  <img src="assets/portfolio/termxk-en-light.svg" alt="Termxk" width="100%" />
-</picture></a></td>
-<td width="50%" valign="top"><a href="https://github.com/Lichao-Lin/Scrapy-Travel-Recommender"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio/travel-en-dark.svg" />
-  <img src="assets/portfolio/travel-en-light.svg" alt="Travel Recommender" width="100%" />
-</picture></a></td>
-</tr>
-</table>
-
-More research tools: [research-scripts ↗](https://github.com/Lichao-Lin/research-scripts)
-
