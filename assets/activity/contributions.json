@@ -1,12 +1,8 @@
 {
   "username": "Lichao-Lin",
   "source": "GitHub GraphQL contributionCalendar",
-  "generatedAt": "2026-11-24T16:03:30.303Z",
+  "generatedAt": "2026-11-25T02:46:39.558Z",
   "days": [
-    {
-      "date": "2026-10-25",
-      "contributionCount": 0
-    },
     {
       "date": "2026-10-26",
       "contributionCount": 16
@@ -126,6 +122,10 @@
     {
       "date": "2026-11-24",
       "contributionCount": 3
+    },
+    {
+      "date": "2026-11-25",
+      "contributionCount": 1
     }
   ]
 }
